@@ -12,4 +12,4 @@
 
 * **Day 5**: NVidia Deep Learning Institute: Fundamentals of Deep Learning
 
-* **Day 6**: Introduction to Large Language Models (LLMs)
+* **Day 6**: NVidia Deep Learning Institute: Building LLM Appliciations with Prompt Engineering
