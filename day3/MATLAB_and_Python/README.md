@@ -248,7 +248,7 @@ TT = timetable(df)
 plot(TT.time,TT.amount)
 ```
 
-![figure_0.png](README_media/figure_0.png)
+![figure_0.png](figure_0.png)
 
 ![](README_media/stackedplot.png)
 
