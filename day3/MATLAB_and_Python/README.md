@@ -35,7 +35,7 @@ https://github.com/yanndebray/eclipse/assets/128002745/f4d92364-e9b4-4a92-af09-9
 In this tutorial, we will show how to use MATLAB with the SunPy community Python library for Solar Physics
 
 
-![image_0.png](README_media/image_0.png)
+![image_0.png](image_0.png)
 
 # Resources
 -  [https://github.com/yanndebray/matlab\-with\-python\-book](https://github.com/yanndebray/matlab-with-python-book) 
@@ -250,7 +250,7 @@ plot(TT.time,TT.amount)
 
 ![figure_0.png](figure_0.png)
 
-![](README_media/stackedplot.png)
+![](stackedplot.png)
 
 ```matlab
 % San Antonio, Texas
@@ -259,7 +259,7 @@ lon = py.numpy.array(longitude); lon = double(lon);
 geoscatter(lat,lon, 'filled')
 ```
 
-![figure_1.png](README_media/figure_1.png)
+![figure_1.png](figure_1.png)
 
 # Export to ipynb and md
 ```matlab
