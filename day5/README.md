@@ -1,6 +1,6 @@
 # Repository for DLI_FDL materials
 
-<img src="https://github.com/lsuhpchelp/lonidltut/blob/main/QRCode%20for%20Pre-session%20Questionnaire.png" width="300" height="300" />
+<img src="https://github.com/lsuhpchelp/loniscworkshop2025/blob/main/day5/QRCode%20for%202025%20LONI%20SC%20Bootcamp%20Day%204-5%C2%A0Pre-session%C2%A0Questionnaire.png" width="300" height="300" />
 <a href="https://forms.office.com/r/fdEsLVGEfu">Link to the above Pre-session Questionnaire</a>
 
 * Access to the Nvidia-DLI workshop: (you need to register an Nvidia Developer Account)\
